@@ -1,0 +1,8 @@
+{
+    "name": "Alipay Page Pay",
+    "code": "alipay_pagepay",
+    "type": "payment",
+    "version": "1.0.0",
+    "description": "支付宝电脑网站支付插件（alipay.trade.page.pay）",
+    "author": "XBoard Community"
+}
